@@ -1,5 +1,5 @@
 # ⚡ Allan Dellon
-**Python Developer | Estudante de Engenharia de Software**
+**Python Developer | Estudante de Analise e Desenvolvimento de Sistemas**
 
 Transformando disciplina diária em código limpo. Focado no ecossistema Python (Django) e na construção de interfaces web dinâmicas. O meu objetivo é resolver problemas complexos através de arquitetura de software eficiente.
 
@@ -18,10 +18,10 @@ Acredito que consistência vence o talento a longo prazo. Minha rotina atual ref
 - 🌙 **Noite:** Desenvolvimento de projetos práticos, estudos de Inglês e treino físico.
 
 ### 🏗️ O que estou construindo agora
-- Desenvolvendo um projeto Web colaborativo (HTML/CSS/JS), aplicando conceitos de UI/UX e metodologias de **desenvolvimento assistido por Inteligência Artificial** para otimização e refatoração de código.
+- Desenvolvendo um projeto Web colaborativo (HTML/CSS/JS), aplicando conceitos de UI/UX e metodologias de para otimização e refatoração de código.
 
 ### 🏋️ Curiosidade
 Quando não estou caçando um bug no backend ou lendo documentação, estou levantando peso na academia. A lógica é exatamente a mesma: falha estrutural, consistência diária e sobrecarga progressiva para evoluir. 
 
 ---
-📫 **Como me encontrar:** [Link para o seu LinkedIn] | [Seu E-mail]
+📫 **Como me encontrar:** https://www.linkedin.com/notifications/?filter=all | dellonallan0@gmaik.com
