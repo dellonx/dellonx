@@ -11,7 +11,7 @@ Transformando disciplina diária em código limpo. Focado no ecossistema Python 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-### 📈 O Processo (Minha Rotina)
+### 📈 O Processo
 Acredito que consistência vence o talento a longo prazo. Minha rotina atual reflete isso:
 - 🌅 **Manhã:** Curso de Aprendizagem em Desenvolvimento de Software.
 - ☀️ **Tarde:** Graduação em Análise e Desenvolvimento de Sistemas (ADS).
