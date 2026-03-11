@@ -20,4 +20,4 @@ Acredito que consistência vence o talento a longo prazo. Minha rotina atual ref
 ### 🏗️ O que estou construindo agora
 - Desenvolvendo um projeto Web colaborativo (HTML/CSS/JS), aplicando conceitos de UI/UX e metodologias de para otimização e refatoração de código.
 ---
-📫 **Como me encontrar:** [https://www.linkedin.com/notifications/?filter=all](https://www.linkedin.com/in/allan-dellon-601774228/) | dellonallan0@gmaik.com
+📫 **Como me encontrar:** Linkedln(https://www.linkedin.com/in/allan-dellon-601774228/) | dellonallan0@gmaik.com
