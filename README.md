@@ -19,9 +19,5 @@ Acredito que consistência vence o talento a longo prazo. Minha rotina atual ref
 
 ### 🏗️ O que estou construindo agora
 - Desenvolvendo um projeto Web colaborativo (HTML/CSS/JS), aplicando conceitos de UI/UX e metodologias de para otimização e refatoração de código.
-
-### 🏋️ Curiosidade
-Quando não estou caçando um bug no backend ou lendo documentação, estou levantando peso na academia. A lógica é exatamente a mesma: falha estrutural, consistência diária e sobrecarga progressiva para evoluir. 
-
 ---
 📫 **Como me encontrar:** https://www.linkedin.com/notifications/?filter=all | dellonallan0@gmaik.com
