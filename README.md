@@ -15,7 +15,7 @@ Transformando disciplina diária em código limpo. Focado no ecossistema Python 
 Acredito que consistência vence o talento a longo prazo. Minha rotina atual reflete isso:
 - 🌅 **Manhã:** Curso de Aprendizagem em Desenvolvimento de Software.
 - ☀️ **Tarde:** Graduação em Análise e Desenvolvimento de Sistemas (ADS).
-- 🌙 **Noite:** Desenvolvimento de projetos práticos, estudos de Inglês e treino físico.
+- 🌙 **Noite:** Desenvolvimento de projetos práticos e curso de Inglês.
 
 ### 🏗️ O que estou construindo agora
 - Desenvolvendo um projeto Web colaborativo (HTML/CSS/JS), aplicando conceitos de UI/UX e metodologias de para otimização e refatoração de código.
