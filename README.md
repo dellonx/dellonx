@@ -7,8 +7,8 @@
 
 ### 📊 Estatísticas e Desempenho
 <p align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dellonx&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dellonx&layout=compact&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dellonx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dellonx&layout=compact&langs_count=7&theme=dracula&hide=html,css" />
 </p>
 
 ### 🚀 Stack & Ferramentas
