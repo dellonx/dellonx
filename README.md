@@ -1,7 +1,7 @@
 # ⚡ Allan Dellon
 **Programador | Estudante de Análise e Desenvolvimento de Sistemas**
 
-> "Tentando ser melhor do que ontem."
+> "Tentando ser melhor do que ontem!"
 
 ---
 
