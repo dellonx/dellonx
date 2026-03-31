@@ -11,15 +11,13 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dellonx&layout=compact&langs_count=7&theme=dracula&hide=html,css" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dellonx&theme=dracula" alt="dellonx" />
+</p>
+
 ### 🚀 Stack & Ferramentas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,django,js,git,mysql,c" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dellonx&theme=dracula" alt="dellonx" />
 </p>
 
 ---
