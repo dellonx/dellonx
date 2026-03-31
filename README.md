@@ -7,13 +7,13 @@
 
 ### 📊 Estatísticas e Desempenho
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dellonx-&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dellonx-&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dellonx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dellonx&layout=compact&langs_count=7&theme=dracula" />
 </p>
 
 ### 🚀 Stack & Ferramentas
 <p align="left">
-<img src="https://skillicons.dev/icons?i=py,django,js,html,css,git,github,vscode,mysql,c" />
+  <img src="https://skillicons.dev/icons?i=py,django,js,html,css,git,github,vscode,mysql,c" />
 </p>
 
 ---
@@ -27,5 +27,5 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dellonx-/dellonx-/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dellonx&theme=dracula" alt="dellonx" />
 </p>
