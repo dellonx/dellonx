@@ -13,7 +13,7 @@
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dellonx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dellonx&layout=compact&langs_count=7&theme=dracula&hide=html,css" width="100%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dellonx&layout=compact&langs_count=7&theme=dracula" width="100%" />
     </td>
   </tr>
 </table>
