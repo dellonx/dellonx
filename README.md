@@ -25,7 +25,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**, focado em construir
 
 ### 🛠️ Tecnologias & Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,py,django,c,mysql,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,py,django,c,mysql,git,github,vscode" />
 </p>
 
 ---
