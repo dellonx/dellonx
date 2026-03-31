@@ -1,15 +1,6 @@
 # ⚡ Allan Dellon
 **Desenvolvedor Full Stack em Formação | Analista e Desenvolvedor de Sistemas**
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/allan-dellon-601774228" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:dellonallan0@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
-
 > "Transformando lógica em soluções e buscando ser melhor do que ontem, um commit de cada vez."
 
 ---
@@ -49,7 +40,18 @@ Aqui você pode acompanhar meu progresso e contribuições em tempo real:
 </div>
 
 ---
+<p align="left">
+  <a href="https://www.linkedin.com/in/allan-dellon-601774228" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:dellonallan0@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+---
+
 
 <p align="center">
   <em>Desenvolvido com ☕ e código por Allan Dellon</em>
 </p>
+
