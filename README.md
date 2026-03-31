@@ -18,6 +18,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dellonx&theme=dracula" alt="dellonx" />
+</p>
+---
+
 ### 📫 Conecte-se comigo:
 <p align="left">
 <a href="https://www.linkedin.com/in/allan-dellon-601774228" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -26,6 +31,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dellonx&theme=dracula" alt="dellonx" />
-</p>
