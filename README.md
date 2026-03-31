@@ -1,7 +1,7 @@
 # ⚡ Allan Dellon
 **Programador | Estudante de Análise e Desenvolvimento de Sistemas**
 
-> "Transformando disciplina diária em código limpo. Focado no ecossistema Python (Django) e na construção de interfaces web dinâmicas."
+> "Tentando ser melhor do que ontem."
 
 ---
 
