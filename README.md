@@ -13,7 +13,7 @@
 
 ### 🚀 Stack & Ferramentas
 <p align="left">
-<img src="https://skillicons.dev/icons?i=py,django,js,html,css,git,github,vscode,mysql,c,cpp" />
+<img src="https://skillicons.dev/icons?i=py,django,js,html,css,git,github,vscode,mysql,c" />
 </p>
 
 ---
