@@ -15,7 +15,7 @@
 ---
 
 ### 💻 Sobre Mim
-Atualmente curso **Análise e Desenvolvimento de Sistemas**, focado em construir aplicações robustas e escaláveis. Tenho paixão pelo ecossistema **JavaScript** e venho aprimorando minhas habilidades em **Python/Django** para o back-end.
+Atualmente curso **Análise e Desenvolvimento de Sistemas**, focado em construir aplicações robustas e escaláveis. Tenho paixão pelo ecossistema **JavaScript** e venho aprimorando minhas habilidades em **React/Node.Js** para me tornar um profissional Full Stack.
 
 * 🌱 Atualmente estudando: **Arquitetura de Sistemas e Performance**.
 * 🎯 Foco principal: **Desenvolvimento Web & Soluções Eficientes**.
