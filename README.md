@@ -8,9 +8,9 @@
 ### 💻 Sobre Mim
 Atualmente curso **Análise e Desenvolvimento de Sistemas**, focado em construir aplicações robustas e escaláveis. Tenho paixão pelo ecossistema **JavaScript** e venho aprimorando minhas habilidades em **React/Node.Js** para me tornar um profissional Full Stack.
 
-* 🌱 Atualmente estudando: **Arquitetura de Sistemas e Performance**.
-* 🎯 Foco principal: **Desenvolvimento Web & Soluções Eficientes**.
-* 💬 Vamos conversar sobre: **JS, Python, C e produtividade**.
+* 🌱 Atualmente estudando: **Desenvolvimento Web Full Stack**.
+* 🎯 Foco principal: **Desenvolvimento Web & Soluções De Mercado**.
+* 💬 Vamos conversar sobre: **Programação, negócios e produtividade**.
 
 ---
 
